@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://64.media.tumblr.com/777344c7bbc424b129a3fc89226abc50/d913c2e306ccc513-e4/s1280x1920/328135a4cfaca52696aa3fe5380dbfa81c3c2d91.pnj" width="15" height="15" /> ⠀⠀ c+h!⠀⠀ 𝅘𝅥𝅮 𝄞 ⠀⠀conversations always welcome , i don't bite⠀⠀. . .⠀⠀ more info about me on my rentry   .ᐟ     ˆ𐃷ˆㅤ𓈒ㅤ <img src="https://64.media.tumblr.com/e2aa5c62f88fad961d90af0ee96070ee/14685143d1d91c86-7b/s1280x1920/6f6427a1c87c989f702471c4f8836d079eeaca57.pnj" width="35" height="35" />
+<img src="https://64.media.tumblr.com/777344c7bbc424b129a3fc89226abc50/d913c2e306ccc513-e4/s1280x1920/328135a4cfaca52696aa3fe5380dbfa81c3c2d91.pnj" width="15" height="15" /> ⠀⠀ c+h!⠀⠀ 𝅘𝅥𝅮 𝄞 ⠀⠀conversations always welcome , i don't bite⠀⠀. . .⠀⠀ more info about me on my rentry ⠀⠀   .ᐟ   ⠀⠀   ˆ𐃷ˆㅤ⠀⠀ 𓈒ㅤ⠀⠀  <img src="https://64.media.tumblr.com/e2aa5c62f88fad961d90af0ee96070ee/14685143d1d91c86-7b/s1280x1920/6f6427a1c87c989f702471c4f8836d079eeaca57.pnj" width="35" height="35" />
 </p>
 
 <p align="center">
