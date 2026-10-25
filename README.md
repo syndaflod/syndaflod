@@ -24,7 +24,7 @@ mysql · sql · modelagem relacional · arquitetura cliente-servidor
 
 ### projetos
 
-#### robô senac
+#### robô senac &nbsp;`código interno`
 
 *extensão de navegador para automação do suporte técnico integrado ao ibm maximo.*
 
