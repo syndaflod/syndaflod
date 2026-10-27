@@ -48,12 +48,6 @@ mysql · apis rest · oslc
 - **interface:** visual inspirado em terminal, com suporte a português e inglês.
 - **integrações:** exibe músicas recentes do last.fm e filmes favoritos do letterboxd.
 
-### sobre
-
-atualmente curso ciência da computação na unicid e trabalho como analista de suporte na digisystem, atendendo usuários do ambiente senac. minha experiência com sistemas corporativos e diagnóstico de problemas orienta meu interesse em desenvolver soluções práticas por meio de software e automação.
-
-formação complementar em desenvolvimento back-end, front-end e python pelo senai.
-
 ---
 
 [github.com/syndaflod](https://github.com/syndaflod)
