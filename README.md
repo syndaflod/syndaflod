@@ -2,7 +2,7 @@
 
 desenvolvimento de software · automação · integração de sistemas
 
-estudante de ciência da computação, interessado em automação de processos, desenvolvimento de ferramentas e integração entre sistemas.
+estudante de ciência da computação e analista de suporte técnico, com foco em software prático, automação de processos e integração de sistemas.
 
 [linkedin](https://linkedin.com/in/tureck) · [e-mail](mailto:heitortureckz@gmail.com)
 
@@ -10,40 +10,47 @@ estudante de ciência da computação, interessado em automação de processos, 
 
 ### stack
 
+**linguagens**
+
+java · javascript · typescript · python
+
 **desenvolvimento**
 
-java · spring boot · javascript · python · node.js · oop
+spring boot · node.js · sveltekit · next.js
 
-**automação e integração**
+**dados e integração**
 
-chrome extensions · manifest v3 · service workers · integração via oslc · apis rest
-
-**dados e arquitetura**
-
-mysql · sql · modelagem relacional · arquitetura cliente-servidor
+mysql · apis rest · oslc
 
 ### projetos
 
 #### robô senac &nbsp;`código interno`
 
-*extensão de navegador para automação do suporte técnico integrado ao ibm maximo.*
+*extensão interna para agilizar o atendimento de suporte integrado ao ibm maximo.*
 
-- **classificação inteligente:** motor de regras em javascript com pontuação ponderada e detecção de intenção.
-- **integração:** acesso à api oslc do maximo para obter dados de classificação dos chamados.
-- **arquitetura:** chrome manifest v3, service worker e extração de informações via dom.
-- **objetivo:** reduzir tarefas manuais e agilizar o atendimento dos analistas n1.
+- **automação:** reúne em um clique os dados do chamado, do solicitante e do aluno em sistemas diferentes.
+- **busca:** pesquisa chamados similares e reduziu a consulta de cinco chamados de 13 para 5 minutos.
+- **resultado:** em 10 chamados reais, a busca pelo ID do aluno passou de 3 minutos para um clique.
+- **arquitetura:** extensão de navegador com javascript e chrome manifest v3.
 
-#### [incluimais](https://github.com/syndaflod/incluimais)
+#### [incluimais](https://github.com/syndaflod/IncluiMais)
 
-*plataforma web para localização de estabelecimentos e serviços com recursos de acessibilidade.*
+*mapa de locais acessíveis para pessoas com deficiência ao redor da unicid.*
 
-- **mapa interativo:** visualização geográfica com leaflet e maplibre gl.
-- **dados geográficos:** informações de estabelecimentos obtidas do openstreetmap.
-- **visualização:** tiles do openfreemap e organização por categorias de locais e serviços.
+- **exploração:** busca por nome ou categoria, filtros de recursos de acessibilidade e mapa interativo.
+- **visualização:** leaflet e maplibre gl js.
+- **dados geográficos:** informações do openstreetmap.
+
+#### [site pessoal](https://github.com/syndaflod/site)
+
+*portfólio feito com next.js para apresentar projetos, experiência e tecnologias.*
+
+- **interface:** visual inspirado em terminal, com suporte a português e inglês.
+- **integrações:** exibe músicas recentes do last.fm e filmes favoritos do letterboxd.
 
 ### sobre
 
-atualmente curso ciência da computação na unicid e trabalho com suporte técnico na digisystem. minha experiência com sistemas corporativos e diagnóstico de problemas orienta meu interesse em desenvolver soluções práticas por meio de software e automação.
+atualmente curso ciência da computação na unicid e trabalho como analista de suporte na digisystem, atendendo usuários do ambiente senac. minha experiência com sistemas corporativos e diagnóstico de problemas orienta meu interesse em desenvolver soluções práticas por meio de software e automação.
 
 formação complementar em desenvolvimento back-end, front-end e python pelo senai.
 
