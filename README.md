@@ -24,7 +24,7 @@ mysql · apis rest · oslc
 
 ### projetos
 
-#### robô senac &nbsp;`código interno`
+#### roboSENAC 
 
 *extensão interna para agilizar o atendimento de suporte integrado ao ibm maximo.*
 
@@ -35,17 +35,18 @@ mysql · apis rest · oslc
 
 #### [incluimais](https://github.com/syndaflod/IncluiMais)
 
-*mapa de locais acessíveis para pessoas com deficiência ao redor da unicid.*
+*protótipo acadêmico de mapa de locais acessíveis para pessoas com deficiência ao redor da unicid*
 
-- **exploração:** busca por nome ou categoria, filtros de recursos de acessibilidade e mapa interativo.
-- **visualização:** leaflet e maplibre gl js.
-- **dados geográficos:** informações do openstreetmap.
+- **exploração:** busca por nome ou categoria, filtros de recursos de acessibilidade (entrada, banheiro, estacionamento, libras, piso tátil e braille) e mapa interativo.
+- **visualização:** leaflet e maplibre gl js, com cinco estilos de mapa.
+- **dados geográficos:** informações do openstreetmap, compactadas em json por um script em python.
+- **acessibilidade:** html, css e js, com vlibras.
 
 #### [site pessoal](https://github.com/syndaflod/site)
 
-*portfólio feito com next.js para apresentar projetos, experiência e tecnologias.*
+*site pessoal feito em next.js e typescript*
 
-- **interface:** visual inspirado em terminal, com suporte a português e inglês.
+- **interface:** fundo animado em ascii, tema âmbar sobre preto e suporte a português e inglês.
 - **integrações:** exibe músicas recentes do last.fm e filmes favoritos do letterboxd.
 
 ---
