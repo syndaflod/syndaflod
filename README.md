@@ -42,7 +42,7 @@ mysql · apis rest · oslc
 - **dados geográficos:** informações do openstreetmap, compactadas em json por um script em python.
 - **acessibilidade:** html, css e js, com vlibras.
 
-#### [site pessoal](https://github.com/syndaflod/site)
+#### [site ](https://github.com/syndaflod/site)
 
 *site pessoal feito em next.js e typescript*
 
