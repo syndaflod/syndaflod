@@ -6,7 +6,7 @@ desenvolvimento de software · automação · integração de sistemas
 
 estudante de ciência da computação, com foco em software prático, automação de processos e integração de sistemas.
 
-[linkedin](https://linkedin.com/in/tureck) · [e-mail](mailto:heitortureckz@gmail.com)
+[linkedin](https://linkedin.com/in/tureck) · [e-mail](mailto:heitor@tureck.site)
 
 ---
 
